@@ -1,0 +1,6 @@
+{
+  "name": "Falcão Motors",
+  "description": "Showroom de motocicletas de alta performance e luxo da Falcão Motors. Detalhes técnicos, filtros avançados e solicitação de consultoria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
